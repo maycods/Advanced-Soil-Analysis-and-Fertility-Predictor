@@ -1,0 +1,12 @@
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- scikit-learn
+- gradio
+- squarify
+- psutil
+- mpl_toolkits
+- Delaunay 
+- seaborn
