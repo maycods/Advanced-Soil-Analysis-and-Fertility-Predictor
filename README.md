@@ -33,6 +33,8 @@ The project includes a **GUI** built using Gradio that provides an interactive e
   <img width="100%" src="dm2.png" >
 </p>
 
+## Acknowledgement
+Special thanks to @manel15279 for the front end
 
 ## License 📜
 
